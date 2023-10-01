@@ -1,0 +1,46 @@
+body {
+   font-family: Roboto 400;
+   font-size: 18px;
+   background-color: bisque;
+}
+
+h1 {
+   font-size: 22px;
+   padding-left: 150px;
+   margin: 30px;
+   color: rgb(20, 83, 178);
+   font-family: Roboto 700;
+}
+
+.content {
+   display: flex;
+   color: rgb(20, 83, 178);
+}
+
+
+
+.content_about_me {
+   width: 500px;
+   margin-top: 80px;
+   margin-left: 50px;
+}
+
+a {
+   color: rgb(17, 210, 72);
+}
+
+a:hover {
+   color: rgb(37, 135, 7);
+}
+
+img {
+   width: 200px;
+   border-radius: 100px;
+   margin: 25px;
+   border: solid 2px black;
+}
+
+
+li {
+   color: rgb(16, 147, 240);
+}
